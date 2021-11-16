@@ -17,7 +17,8 @@
             "subtitle":"Suggestions de lecture, critiques littéraires et activités",
             "image":"https://collegemont-royal.github.io/files/images/bibliotheque.png",
             "newPage":true,
-            "link":"https://collegemont-royal.github.io/files/bibliotheque/contenu.json"
+            "link":"https://collegemont-royal.github.io/files/bibliotheque/contenu.json",
+            "UUID":"6f0cdd56-215e-4bb2-a5de-47cadac4b9df"
         },{
             "title":"Cafétéria",
             "subtitle":"Menu de la cafétéria",

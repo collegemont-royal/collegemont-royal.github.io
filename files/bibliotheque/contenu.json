@@ -9,10 +9,12 @@
             "link":"https://padlet.com/nfaral/pvw6nnnncz94u07w",
             "name":"Ma bibliothèque animée"
         },{
-            "title":"À venir...",
-            "subtitle":"Le premier balado littéraire du comité de la bibliothèque sera disponible sous peu!",
-            "image":"https://collegemont-royal.github.io/files/bibliotheque/icones/balado.png",
-            "tint":"bdbdbd"
+            "title":"Balado littéraire",
+            "subtitle":"Le premier balado littéraire du comité de la bibliothèque est disponible !",
+            "image":"https://collegemont-royal.github.io/files/bibliotheque/icones/balado_nouveau.png",
+            "newPage":true,
+            "link":"https://collegemont-royal.github.io/files/bibliotheque/balado.json",
+            "UUID":"1aa7aeb6-274e-4c6e-a9f1-a2dcb0125aba"
         },{
             "title":"Nouveautés",
             "subtitle":"Les livres fraîchement arrivés à la bibliothèque.",

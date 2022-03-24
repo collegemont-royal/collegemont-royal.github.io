@@ -24,12 +24,6 @@
             "image":"https://collegemont-royal.github.io/files/miseaniveau/epic.png",
             "openURL":true,
             "link":"https://getepic.com"
-        },{
-            "title":"Tutoriels iPad",
-            "subtitle":"Apprenez à utiliser votre tablette comme un pro!",
-            "image":"https://collegemont-royal.github.io/files/miseaniveau/video.png",
-            "newPage":true,
-            "link":"https://collegemont-royal.github.io/files/support/tutoriels.json"
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "title":"Suggestions de lecture",
+    "cells":
+    [
+        {
+            "title":"Section jeunesse"
+        },{
+            "title":"Romans jeunesse",
+            "image":"/files/bibliotheque/images/suggestions3.png",
+            "newPage":true,
+            "link":"/files/bibliotheque/jeunesse.json"
+        },{
+            "title":"Section adulte"
+        },{
+            "title":"Romans adulte",
+            "image":"/files/bibliotheque/images/suggestions2.png",
+            "newPage":true,
+            "link":"/files/bibliotheque/adulte.json"
+        }
+    ]
+}

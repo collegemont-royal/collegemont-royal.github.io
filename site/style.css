@@ -32,7 +32,7 @@ p.categorie {
     padding-right: 30px;
 
     position: relative;
-
+    cursor: default;
     margin: 0;
 
     font-weight: bold;

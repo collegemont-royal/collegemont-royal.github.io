@@ -4,7 +4,7 @@
     "cells": [
         {
             "title":"Partage de suggestions de lecture du personnel",
-            "subtitle":"Faites le plein d'idées de lecture pour l'été avec les suggestions des professeurs et employés du collège!",
+            "subtitle":"Faites le plein d'idées de lecture pour l'été avec les suggestions des enseignants et employés du collège!",
             "image":"/files/bibliotheque/images/suggestions.png",
             "newPage":true,
             "link":"/files/bibliotheque/suggestions.json"

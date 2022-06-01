@@ -1,0 +1,28 @@
+name: Set deployment states
+
+on:
+  workflow_run:
+    workflows: [pages-build-deployment]
+    types: [completed]
+
+jobs:
+  set-deployment-states:
+    name: Set deployment states
+    if: ${{ github.event.workflow_run.conclusion != 'cancelled' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: dist
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - name: Install dependencies
+        run: npm install octokit
+      - name: Set deployment states
+        run: node .github/build/setStates
+        env:
+          WORKFLOW_RUN_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

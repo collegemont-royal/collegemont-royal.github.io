@@ -18,7 +18,8 @@
             "title":"Ma bibliothèque animée",
             "subtitle":"Suggestions de lecture et critiques littéraires",
             "image":"/files/bibliotheque/images/padlet.png",
-            "link":"https://padlet.com/nfaral/pvw6nnnncz94u07w"
+            "link":"https://padlet.com/nfaral/pvw6nnnncz94u07w",
+            "openURL":true
         },{
             "title":"Balado littéraire",
             "subtitle":"Les balados littéraires du comité de la bibliothèque sont disponibles !",

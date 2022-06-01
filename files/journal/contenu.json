@@ -3,18 +3,22 @@
     "cells":
     [
         {
+            "title":"Édition 10",
+            "subtitle":"Cette dixième édition du journal étudiant vous offre une panoplie de ressources et de trucs pratiques pour vous accompagner durant vos scéances d'étude. Bonne préparation à toutes et à tous!",
+            "image":"https://collegemont-royal.github.io/files/journal/images/basic.png",
+            "link":"https://collegemont-royal.github.io/files/journal/Journal10.pdf",
+            "UUID":"47b7844d-c228-406b1e5-5584563b89aa"
+        },{
             "title":"Édition 9",
             "subtitle":"Le mois d'avril n'a pas été de tout repos, autant au niveau scolaire que dans la vie étudiante. Jetez un coup d'oeil à cette vague de changement à travers les articles de cette neuvième édition du journal étudiant. ",
             "image":"https://collegemont-royal.github.io/files/journal/images/basic.png",
-            "link":"https://collegemont-royal.github.io/files/journal/Journal9.pdf",
-            "UUID":"47b7844d-c228-4067-b1e5-5584563b89aa"
+            "link":"https://collegemont-royal.github.io/files/journal/Journal9.pdf"
         },{
             
             "title":"Édition 8",
             "subtitle":"Célébrez l'arrivée du printemps en découvrant les nouveautés au collège, ainsi que de nombreuses suggestions musicales, cinématographiques et littéraires!",
             "image":"/files/journal/images/basic.png",
-            "link":"/files/journal/Journal8.pdf",
-            "UUID":"abc1b959-99f3-4ab2-b1b6-ec57c52f281a"
+            "link":"/files/journal/Journal8.pdf"
         },{
             "title":"Édition spéciale",
             "subtitle":"Joyeux mois de février à tous!",

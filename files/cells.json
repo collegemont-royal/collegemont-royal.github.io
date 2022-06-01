@@ -3,6 +3,11 @@
     "version":"1.14.3",
     "cells": [
         {
+            "title":"Bonnes vacances",
+            "subtitle":"GG you did it (yes you did it! 👀)",
+            "image":"🌴",
+            "notification":true
+        },{
             "title":"Informations générales",
             "subtitle":"Informations et règlements",
             "image":"/files/images/infos.png",

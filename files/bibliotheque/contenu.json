@@ -10,7 +10,7 @@
             "link":"/files/bibliotheque/suggestions/contenu.json"
         },{
             "title":"Concours de lecture",
-            "subtitle":"Lisez le plus de livres possible pour gagner le concours !",
+            "subtitle":"Voyez qui a gagné le concours de lecture !",
             "image":"/files/bibliotheque/images/etoile.png",
             "newPage":true,
             "link":"/files/bibliotheque/concours.json"

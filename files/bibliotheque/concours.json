@@ -5,39 +5,47 @@
         {
             "title":"Première secondaire"
         },{
-            "title":"Groupe 13 : 215 points",
-            "subtitle":"1re place!",
+            "title":"Classe gagnante !",
+            "subtitle":"Bravo à tous !",
             "image":"/files/bibliotheque/images/groupes/gr13.png"
         },{
-            "title":"Groupe 10 : 202 points",
-            "subtitle":"2e place!",
+            "title":"Éléonore Forest",
+            "subtitle":"Gagnante du groupe 10 !",
             "image":"/files/bibliotheque/images/groupes/gr10.png"
         },{
-            "title":"Groupe 12 : 160 points",
-            "subtitle":"3e place!",
+            "title":"Meriem Mouas",
+            "subtitle":"Gagnante du groupe 11 !",
+            "image":"/files/bibliotheque/images/groupes/gr11.png"
+        },{
+            "title":"Sarah Cherkaoui",
+            "subtitle":"Gagnante du groupe 12 !",
             "image":"/files/bibliotheque/images/groupes/gr12.png"
         },{
-            "title":"Groupe 11 : 118 points",
-            "subtitle":"4e place!",
-            "image":"/files/bibliotheque/images/groupes/gr11.png"
+            "title":"Mélina Idiri",
+            "subtitle":"Gagnante du groupe 13 !",
+            "image":"/files/bibliotheque/images/groupes/gr13.png"
         },{
             "title":"Deuxième secondaire"
         },{
-            "title":"Groupe 23 : 172 points",
-            "subtitle":"1re place!",
+            "title":"Classe gagnante !",
+            "subtitle":"Bravo à tous !",
             "image":"/files/bibliotheque/images/groupes/gr23.png"
         },{
-            "title":"Groupe 20 : 118 points",
-            "subtitle":"2e place!",
+            "title":"Luz Taisha Duidonné",
+            "subtitle":"Gagnante du groupe 20 !",
             "image":"/files/bibliotheque/images/groupes/gr20.png"
         },{
-            "title":"Groupe 22 : 52 points",
-            "subtitle":"3e place!",
+            "title":"Annabelle Jacob",
+            "subtitle":"Gagnante du groupe 21 !",
+            "image":"/files/bibliotheque/images/groupes/gr21.png"
+        },{
+            "title":"Janie Mainville",
+            "subtitle":"Gagnante du groupe 22 !",
             "image":"/files/bibliotheque/images/groupes/gr22.png"
         },{
-            "title":"Groupe 21 : 8 points",
-            "subtitle":"4e place!",
-            "image":"/files/bibliotheque/images/groupes/gr21.png"
+            "title":"Arielle Chu",
+            "subtitle":"Gagnante du groupe 23 !",
+            "image":"/files/bibliotheque/images/groupes/gr23.png"
         }
     ]
 }

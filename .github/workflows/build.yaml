@@ -5,8 +5,8 @@ on:
     branches:
       - "**"
       - "!gh-pages"
-  pull_request:
-    types: [opened, reopened, synchronized]
+  #pull_request:
+   # types: [opened, reopened, synchronized]
 
 jobs:
   build:

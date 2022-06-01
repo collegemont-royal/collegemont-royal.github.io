@@ -13,8 +13,7 @@
             "subtitle":"Suggestions de lecture, critiques littéraires, balados et activités",
             "image":"/files/images/bibliotheque.png",
             "newPage":true,
-            "link":"/files/bibliotheque/contenu.json",
-            "UUID":"05fefe57-7cef-9064-6f0f5b86579d"
+            "link":"/files/bibliotheque/contenu.json"
         },{
             "title":"Cafétéria",
             "subtitle":"Informations et menu de la cafétéria",
@@ -26,8 +25,7 @@
             "subtitle":"Consultez notre journal étudiant!",
             "image":"/files/images/journal.png",
             "newPage":true,
-            "link":"/files/journal/contenu.json",
-            "UUID":"8bc3bf03-16a0-425b-a661-74dac3486d6d"
+            "link":"/files/journal/contenu.json"
         },{
             "title":"Support technique",
             "subtitle":"Contactez l'équipe de support technique du collège et consultez les tutoriels.",

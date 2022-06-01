@@ -7,7 +7,7 @@
             "subtitle":"Faites le plein d'idées de lecture pour l'été avec les suggestions des enseignants et employés du collège!",
             "image":"/files/bibliotheque/images/onaime.png",
             "newPage":true,
-            "link":"/files/bibliotheque/suggestions.json"
+            "link":"/files/bibliotheque/suggestions/contenu.json"
         },{
             "title":"Concours de lecture",
             "subtitle":"Lisez le plus de livres possible pour gagner le concours !",

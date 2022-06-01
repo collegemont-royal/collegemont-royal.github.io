@@ -8,14 +8,14 @@
             "title":"Romans jeunesse",
             "image":"/files/bibliotheque/images/onaime.png",
             "newPage":true,
-            "link":"/files/bibliotheque/jeunesse.json"
+            "link":"/files/bibliotheque/suggestions/jeunesse.json"
         },{
             "title":"Section adulte"
         },{
             "title":"Romans adulte",
             "image":"/files/bibliotheque/images/onaime.png",
             "newPage":true,
-            "link":"/files/bibliotheque/adulte.json"
+            "link":"/files/bibliotheque/suggestions/adulte.json"
         }
     ]
 }

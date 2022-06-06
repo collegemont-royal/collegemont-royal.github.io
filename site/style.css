@@ -282,6 +282,7 @@ img {
     object-fit: contain;
     background-size: contain;
     mask-size: cover;
+    -webkit-mask-size: cover;
 }
 
 .article img {

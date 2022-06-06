@@ -1,0 +1,55 @@
+:root {
+    --file-titlebar: #f2f1f6;
+    --background: #ffffff;
+    --text: #000000;
+}
+
+body {
+    margin: 0;
+}
+
+div.filetitle {
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: CenturyGothic, Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: var(--file-titlebar);
+    min-height: 55px;
+    width: 100%;
+}
+
+button.retour {
+    height: 30px;
+    width: 30px;
+
+    background-color: var(--text);
+    border: none;
+    margin-left: 10px;
+
+    -webkit-mask-image: url(/site/fileview/back.png);
+    mask-image: url(/site/fileview/back.png);
+    object-fit: contain;
+    background-size: contain;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+}
+
+p.filetitle {
+    color: var(--text);
+    font-size: min(7vw, 25px);
+    margin: 10px;
+}
+
+iframe.fileview {
+    border: none;
+    width: 100%;
+    height: calc(100vh - 55px);
+}
+
+@font-face {
+    font-family: CenturyGothic;
+    font-weight: bold;
+    src: url(/site/ressources/fonts/GOTHICB.woff);
+}

@@ -20,7 +20,7 @@
             document.getElementById("i").remove()
             document.getElementById("s").innerText = params.get("s");
         } else {
-            document.getElementById("i").src = params.get("i");
+            document.getElementById("i").src = addSlashIfNeeded(params.get("i"));
         }
 
         if (!params.has("l")) {
@@ -28,14 +28,24 @@
         } else {
             document.getElementById("l").onclick = () => {
                 let urlToOpen = params.get("l")
-                if (urlToOpen.endsWith(".json")) urlToOpen = `/?src=${urlToOpen}`
-                window.open(urlToOpen, '_blank').focus()
+                if (urlToOpen.endsWith(".json")) {
+                    urlToOpen = `/?src=${urlToOpen}`
+                }
+                window.open(addSlashIfNeeded(urlToOpen), '_blank').focus()
             }
         }
         
         if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
             document.body.classList.add("dark");
         }
+
+        function addSlashIfNeeded(url) {
+            if (!url.startsWith("http")) {
+                return "/" + url;
+            }
+            return url;
+        }
+
     </script>
 </body>
 

@@ -27,7 +27,13 @@ function addClickEvent(i) {
     var element = document.getElementById(i); //grab the element
     if (cells[i].link) {
         element.onclick = function () { //asign a function
-            window.open(cells[i].link);
+            let link = cells[i].link;
+            if (!cells[i].openURL) {
+                window.open(`/site/fileview/?t=${cells[i].title}&s=${cells[i].link}`);
+            } else {
+                window.open(cells[i].link);
+            }
+            
         }
     }
 }
@@ -142,7 +148,7 @@ function GenerateHTMLCell(cell, i, cellClass) {
     if (image.indexOf(".") > 0) {
         // IMAGE IS LINK
         if (imageTint != "") {
-            imageCode = `<img-container><img class="maskedimage" src="${emptyImage}" style="mask-image: url(${image}); background-color: ${imageTint};" id=${image}/></img-container>`
+            imageCode = `<img-container><img class="maskedimage" src="${emptyImage}" style="-webkit-mask-image: url(${image}); mask-image: url(${image}); background-color: ${imageTint};" id=${image}/></img-container>`
         } else {
             imageCode = `<img-container><img src="${image}" id=${image}/></img-container>`
         }
@@ -275,7 +281,7 @@ function populateAnnonces(i) {
             contentCode += `<img class="openlink" src="site/ressources/openLink.png"/>`
         }
 
-        annoncesDiv.insertAdjacentHTML("beforeend", `<div class="annonce-wrapper"><annonce id=annonce${i} onclick="popupwindow('/site/popup.html?${popUpCode}', 'Babillard', 500, 500);">${contentCode}</annonce></div>`)
+        annoncesDiv.insertAdjacentHTML("beforeend", `<div class="annonce-wrapper"><annonce id=annonce${i} onclick="popupwindow('/site/popup/?${popUpCode}', 'Babillard', 500, 500);">${contentCode}</annonce></div>`)
 
         const annonceElement = annoncesDiv.lastElementChild.firstElementChild;
         const annonceTextElement = annonceElement.querySelector("textarea");

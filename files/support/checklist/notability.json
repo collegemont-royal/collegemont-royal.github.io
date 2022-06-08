@@ -1,0 +1,19 @@
+{
+    "title":"Sauvegardes Notability",
+    "topsubtitle":"Soyez à jour",
+    "cells": [
+        {
+            "title":"Ouvrez l’application Notability et ouvrez sur les paramètres en cliquant sur l’engrenage en bas à gauche de l’écran.",
+            "image":"/files/support/checklist/images/cl31.png",
+            "article":true
+        },{
+            "title":"Sélectionnez l’onglet iCloud et assurez-vous que la synchronisation est activée correctement.",
+            "image":"/files/support/checklist/images/cl32.png",
+            "article":true
+        },{
+            "title":"Sélectionnez l’onglet Sauvegarde automatique et connectez-vous à Google Drive avec votre compte Google du collège.",
+            "image":"/files/support/checklist/images/cl33.png",
+            "article":true
+        }
+    ]
+}

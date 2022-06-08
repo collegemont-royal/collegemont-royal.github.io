@@ -1,3 +1,3 @@
-const main = require("./main");
+const build = require("./build");
 
-main().catch(() => process.exit(1));
+build().catch(() => process.exit(1));

@@ -5,14 +5,14 @@
         {
             "title":"Édition 10",
             "subtitle":"Cette dixième édition du journal étudiant vous offre une panoplie de ressources et de trucs pratiques pour vous accompagner durant vos scéances d'étude. Bonne préparation à toutes et à tous!",
-            "image":"https://collegemont-royal.github.io/files/journal/images/basic.png",
-            "link":"https://collegemont-royal.github.io/files/journal/Journal10.pdf",
+            "image":"/files/journal/images/basic.png",
+            "link":"/files/journal/Journal10.pdf",
             "UUID":"47b7844d-c228-406b1e5-5584563b89aa"
         },{
             "title":"Édition 9",
             "subtitle":"Le mois d'avril n'a pas été de tout repos, autant au niveau scolaire que dans la vie étudiante. Jetez un coup d'oeil à cette vague de changement à travers les articles de cette neuvième édition du journal étudiant. ",
-            "image":"https://collegemont-royal.github.io/files/journal/images/basic.png",
-            "link":"https://collegemont-royal.github.io/files/journal/Journal9.pdf"
+            "image":"/files/journal/images/basic.png",
+            "link":"/files/journal/Journal9.pdf"
         },{
             
             "title":"Édition 8",

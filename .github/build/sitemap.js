@@ -4,22 +4,22 @@ const path = require("path");
 const { promisify } = require("util");
 
 const config = require("./config");
-const context = require("./context");
 
 const readFile = promisify(fs.readFile);
 const exec = promisify(child_process.exec);
 
 const XML_HEADER = '<?xml version="1.0" encoding="UTF-8"?>';
 
-const urlToXml =
-  (baseUrl) =>
-  ({ location, lastMod }) => {
-    return `<url><loc>${baseUrl}${location}</loc><lastmod>${lastMod}</lastmod></url>`;
-  };
-
-const urlsToXml = (baseUrl, urls) => {
-  return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(urlToXml(baseUrl)).join("")}</urlset>`;
+const getDeployUrl = async () => {
+  // TODO: Fix
+  return "https://collegemont-royal.github.io";
 };
+
+const urlToXml =
+  (deployUrl) =>
+  ({ location, lastMod }) => {
+    return `<url><loc>${deployUrl}${location}</loc><lastmod>${lastMod}</lastmod></url>`;
+  };
 
 const getLastMod = (filePath) =>
   exec(`git log -n 1 --format=%at "${filePath}"`, { encoding: "utf8" }).then(({ stdout: gitLog }) => {
@@ -52,6 +52,12 @@ const navigatePage = async (pageAbsolutePath, root) => {
 
 exports.createSitemap = async () => {
   console.log("Creating sitemap...");
+  const deployUrl = await getDeployUrl();
   const urls = await navigatePage(config.website.entryPoint, true).then((urls) => Promise.all(urls));
-  return XML_HEADER + urlsToXml(context.deployUrl, urls);
+  const sitemap =
+    XML_HEADER +
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
+    urls.map(urlToXml(deployUrl)).join("") +
+    "</urlset>";
+  return sitemap;
 };

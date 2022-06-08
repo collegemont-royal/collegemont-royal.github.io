@@ -1,12 +1,12 @@
-name: Build & Deploy
+name: Build
 
 on:
   push:
     branches:
       - "**"
       - "!gh-pages"
-  #pull_request:
-   # types: [opened, reopened, synchronized]
+  pull_request:
+   types: [opened, reopened, synchronize]
 
 jobs:
   build:
@@ -23,37 +23,13 @@ jobs:
         with:
           node-version: "16"
       - name: Install dependencies
-        run: npm install browserify babelify @babel/core @babel/preset-env core-js@3 tinyify html-minifier postcss cssnano gh-pages octokit
+        run: npm install browserify babelify @babel/core @babel/preset-env core-js@3 tinyify html-minifier postcss cssnano
       - name: Build
         run: node .github/build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  deploy:
-    name: Deploy
-    if: ${{ needs.build.result != 'failure' }}
-    needs: build
-    concurrency:
-      group: deploy
-      cancel-in-progress: true
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
         with:
-          ref: dist
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: "16"
-      - name: Install dependencies
-        run: npm install gh-pages
-      - name: Deploy
-        run: |
-          mkdir -p builds/main
-          cd builds
-          find . -maxdepth 1 -type d -path "./*" -not -name .git -not -name main -exec cp -R {} main/{} \;
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          npx gh-pages -d main -u "github-actions <support+actions@github.com>"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: build
+          path: dist

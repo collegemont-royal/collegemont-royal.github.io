@@ -1,0 +1,37 @@
+{
+    "title":"Compte iCloud du collège",
+    "topsubtitle":"Soyez à jour",
+    "cells": [
+        { 
+            "title":"Avant de commencer..." 
+        },{
+            "title":"Ces étapes sont destinées aux élèves n’ayant pas de forfait iCloud + ou de partage familial",
+            "subtitle":"Si vous ou un membre de votre partage familial iCloud avez déjà un abonnement à iCloud, ces étapes ne sont pas nécessaires et ne vous sont pas recommandées",
+            "image":"/files/support/checklist/images/person.png",
+            "notification":true
+        },{
+            "title":"Le compte iCloud du collège sera supprimé au terme de votre parcours d’études secondaires",
+            "subtitle":"Il n’est pas recommandé d’y garder toutes vos photos les plus précieuses, car vous devrez les exporter avant votre départ du collège.",
+            "image":"/files/support/checklist/images/person2.png",
+            "notification":true
+        },{
+            "title":"Marche à suivre"
+        },{
+            "title":"Ouvrez l’application Réglages et cliquez sur la section de l’identifiant Apple. Elle est située en haut de la section de gauche.",
+            "image":"/files/support/checklist/images/cl11.png",
+            "article":true
+        },{
+            "title":"Si l’identifiant Apple connecté n’est pas votre identifiant du collège (@appleid.collegemont-royal.qc.ca), déconnectez-vous et reconnectez-vous avec votre identifiant du collège.",
+            "image":"/files/support/checklist/images/cl12.png",
+            "article":true
+        },{
+            "title":"Une fois connecté à iCloud, ouvrez l’AppStore et cliquez sur votre profil en haut à droite. Si votre identifiant du collège y est connecté, déconnectez-vous.",
+            "image":"/files/support/checklist/images/cl13.png",
+            "article":true
+        },{
+            "title":"Utilisez votre identifiant Apple personnel pour vous connecter à l’AppStore. Ce compte sera en mesure de télécharger des applications (le compte du collège ne peut pas être utilisé pour télécharger des applications).",
+            "image":"/files/support/checklist/images/cl14.png",
+            "article":true
+        }
+    ]
+}

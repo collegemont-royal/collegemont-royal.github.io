@@ -28,12 +28,12 @@ function addClickEvent(i) {
     if (cells[i].link) {
         element.onclick = function () { //asign a function
             let link = cells[i].link;
-            if (!cells[i].openURL) {
+            if (!cells[i].openURL && !iOS()) {
                 window.open(`/site/fileview/?t=${cells[i].title}&s=${cells[i].link}`);
             } else {
                 window.open(cells[i].link);
             }
-            
+
         }
     }
 }
@@ -165,8 +165,6 @@ function GenerateHTMLCell(cell, i, cellClass) {
         var content = get(src);
         annonces[i] = JSON.parse(content);
         annonces[i] = sortAnnonces(annonces[i], i);
-
-        console.log(annonces)
 
         if (annonces[i].length > 0) {
             imageCode = imageCode = `<img-container><img src="files/images/babillard_fill.png" class="pin-image" id=${image}/></img-container>`
@@ -303,6 +301,20 @@ function populateAnnonces(i) {
             }
         }
     });
+}
+
+function iOS() {
+    if (/iPad|iPhone|iPod/.test(navigator.platform)) {
+        return true;
+    } else if (isIpadOS()) {
+        return true;
+    } else {
+        return navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /MacIntel/.test(navigator.platform);
+    }
+}
+
+function isIpadOS() {
+    return navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /MacIntel/.test(navigator.platform);
 }
 
 function isCategorie(image) {

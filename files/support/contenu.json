@@ -2,6 +2,12 @@
     "title":"Support technique",
     "cells": [
         {
+            "title":"Soyez à jour",
+            "subtitle":"Assurez-vous d’être à jour au niveau technologique en vérifiant ces 4 points !",
+            "image":"/files/images/checklist.png",
+            "newPage":true,
+            "link":"/files/support/checklist/contenu.json"
+        },{
             "title":"Tutoriels iPad",
             "subtitle":"Apprenez à utiliser votre tablette comme un pro!",
             "image":"/files/images/video.png",

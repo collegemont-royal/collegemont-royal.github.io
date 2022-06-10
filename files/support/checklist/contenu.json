@@ -4,26 +4,26 @@
     "cells": [
         {
             "title":"Réseau WiFi au collège",
-            "subtitle":"Le réseau WiFi adéquat au collège vous permet d’imprimer à la bibliothèque et d’avoir une connexion rapide et stable. Vérifiez que vous êtes bel et bien connecté au réseau **CMR-ELEVES**. Sinon, le nom d’utilisateur est votre numéro d’élève et le mot de passe est votre date de naissance (AAAA-MM-JJ).",
+            "subtitle":"Le réseau WiFi adéquat au collège vous permet d’imprimer à la bibliothèque et d’avoir une connexion rapide et stable. Vérifiez que vous êtes bel et bien connecté au réseau **CMR-ELEVES**. Sinon, le nom d’utilisateur est votre numéro d’élève et le mot de passe est votre date de naissance (AAAAMMJJ).",
             "image":"/files/support/checklist/images/wifi.png",
             "notification":true
         },{
             "title":"Compte iCloud du collège",
-            "subtitle":"Connectez-vous à votre compte iCloud du collège pour bénéficier de 200 Go de stockage gratuitement. Vérifiez aussi ces étapes si vous avez de la difficulté à installer des applications.\n**Voir comment faire ➜**",
+            "subtitle":"Connectez-vous à votre compte iCloud du collège pour bénéficier de 200 Go de stockage gratuit. Vérifiez aussi ces étapes si vous avez de la difficulté à installer des applications.\n**Voir comment faire ➜**",
             "image":"/files/support/checklist/images/cl11.png",
             "newPage":true,
             "link":"/files/support/checklist/icloud.json",
             "article":true
         },{
             "title":"Mots de passe",
-            "subtitle":"Notez vos mots de passe le plus fréquemment possible pour ne pas les oublier. On vous suggère quelques trucs pour vous faciliter la vie!\n**Voir les astuces ➜**",
+            "subtitle":"Notez vos mots de passe pour ne pas les oublier. On vous suggère quelques trucs pour vous faciliter la vie!\n**Voir les astuces ➜**",
             "image":"/files/support/checklist/images/cl21.png",
             "newPage":true,
             "link":"/files/support/checklist/passwords.json",
             "article":true
         },{
             "title":"Sauvegardes Notability",
-            "subtitle":"L'application Notability permet de sauvegarder ses notes de plusieurs façons. Nous recommandons d'en utiliser deux. Vérifiez que vous utilisez iCloud et Google Drive pour la sauvegarde automatique.\n**Voir comment faire ➜**",
+            "subtitle":"L'application *Notability* permet de sauvegarder ses notes de plusieurs façons. Nous recommandons d'en utiliser deux. Vérifiez que vous utilisez iCloud et Google Drive pour la sauvegarde automatique.\n**Voir comment faire ➜**",
             "image":"/files/support/checklist/images/cl31.png",
             "newPage":true,
             "link":"/files/support/checklist/notability.json",

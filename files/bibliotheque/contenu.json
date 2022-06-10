@@ -9,12 +9,6 @@
             "newPage":true,
             "link":"/files/bibliotheque/suggestions/contenu.json"
         },{
-            "title":"Concours de lecture",
-            "subtitle":"Voyez qui a gagné le concours de lecture !",
-            "image":"/files/bibliotheque/images/etoile.png",
-            "newPage":true,
-            "link":"/files/bibliotheque/concours.json"
-        },{
             "title":"Ma bibliothèque animée",
             "subtitle":"Suggestions de lecture et critiques littéraires",
             "image":"/files/bibliotheque/images/padlet.png",
@@ -26,7 +20,7 @@
             "image":"/files/bibliotheque/images/balado.png",
             "newPage":true,
             "link":"/files/bibliotheque/balado/contenu.json",
-            "UUID":"bc07bc51-d609-4948-a67a-bd12c4c4cbf8"
+            "UUID":"bf09ac96-fe4b-4697-aa8a-e8a15c7884a0"
         },{
             "title":"Nouveautés",
             "subtitle":"Les livres fraîchement arrivés à la bibliothèque.",

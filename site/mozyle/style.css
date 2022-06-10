@@ -4701,10 +4701,6 @@ span.img-toggle-password.mini {
     padding-top:6px
 }
 
-.appselector_grid .app:hover > .app-remove {
-    opacity:1
-}
-
 .appselector_grid.disabled {
     opacity: .5;
     -moz-filter: grayscale(100%);

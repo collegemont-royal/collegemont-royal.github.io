@@ -3,15 +3,71 @@
     "cells":
     [
         {
+            "title":"Suggestion de Nathalie Faral"
+        },{
+            "title":"L'année de grâce",
+            "subtitle":"**Kim Liggett**\nL'année de leurs 16 ans, toutes les jeunes filles sont envoyées dans un campement en forêt où elles doivent survivre seules pendant un an afin de se purifier de la magie dangereuse dont la croyance les pense porteuses. Tierney, une adolescente rebelle et animée d'une rage sourde, s'aperçoit très vite que le danger réside plus dans la folie collective qui gagne le groupe que chez leurs gardiens.",
+            "image":"https://images.renaud-bray.com/images/PG/3287/3287260-gf.jpg"
+        },{
+            "title":"Dix",
+            "subtitle":"**Marine Carteron**\nSept adolescents et trois adultes partent sur une île coupée du monde pour participer à un escape game littéraire diffusé à la télévision en prime time. Les candidats meurent un par un. C'est le début d'une lutte sans merci pour survivre.",
+            "image":"https://images.renaud-bray.com/images/PG/2800/2800630-gf.jpg"
+        },{
+            "title":"Et ils meurent tous les deux à la fin",
+            "subtitle":"**Adam Silvera**\nUn 5 septembre, le service de Death-Cast informe Mateo Torrez et Rufus Emeterio de leur décès imminent. N'ayant plus qu'un jour à vivre, ils font connaissance en utilisant une application nommée Le Dernier Ami. Ensemble, ils décident de relever le défi de vivre toute une vie en une seule journée.",
+            "image":"https://images.renaud-bray.com/images/PG/2463/2463076-gf.jpg"
+        },{
+            "title":"Toucher les étoiles",
+            "subtitle":"**Frédérick Wolfe**\nIl y a deux choses que Madeleine adore : ses cours de ballet et le trampoline de son amie. Des joies toutes simples, bien loin de la soif de performance qui anime son père. Pour lui, ce qui compte vraiment, c’est d’être le meilleur dans toutes les sphères de sa vie, et cela vaut aussi pour sa femme et sa fille.",
+            "image":"https://images.renaud-bray.com/images/PG/3589/3589955-gf.jpg"
+        },{
+            "title":"Parasites-la guêpe",
+            "subtitle":"**Marie-Eve Bourassa**\nBillie vit avec son père dans une petite ville minière des Cantons-de-l'Est. Depuis quelque temps, toutes sortes d'événements bizarres et inquiétants ont lieu à l'école qu'elle fréquente. Après la mort de son ami Antoine Rivard dans des circonstances louches, Billie comprend qu'elle ne pourra plus se cacher. La Guêpe, mystérieuse appli qui semble se nourrir de la vie privée des jeunes – et de leur fascination pour la vie privée des autres –, lance aux ados du coin des défis de plus en plus périlleux... Qui est vraiment l'inquiétant parasite? La mort de leur camarade était-elle vraiment un suicide?",
+            "image":"https://images.renaud-bray.com/images/PG/3342/3342824-gf.jpg"
+        },{
+            "title":"Le Jour des fourmis – Tome 2",
+            "subtitle":"**Bernard Werber**\nSommes-nous des dieux ? Sommes-nous des monstres ? Pour le savoir, une fourmi va partir à la découverte de notre monde et connaître mille aventures dans notre civilisation de géants. Parallèlement, un groupe de scientifiques humains va, au fil d'un thriller hallucinant, comprendre la richesse et la magie de la civilisation des fourmis, si proche et pourtant si peu connue.",
+            "image":"https://www.fourmisquebec.com/wp-content/uploads/2020/05/Le-Jour-des-fourmis-–-Tome-2-–-Bernard-Werber.png"
+        },{
+            "title":"Bilbot le Hobbit (roman graphique)",
+            "subtitle":"**J R Tolkien**\nBien longtemps avant la quête du Seigneur des Anneaux, alors que Bilbo Sacquet était encore un tout jeune et paisible Hobbit, Gandalf le Magicien l'entraîna dans une folle aventure. En compagnie de treize nains, Bilbo se lança dans la conquête d'un trésor caché sous le Mont Solitaire, usurpé par le Dragon Smaug. En route, il s'appropriera l'anneau magique de Gollum, combattra trolls, gobelins et araignées géantes, et deviendra ami avec le peuple des Elfes.",
+            "image":"https://images.leslibraires.ca/books/9782413031888/front/9782413031888_medium.jpg"
+        },{
+            "title":"La brigade Des cauchemars (bande dessinée)",
+            "subtitle":"**Franck Thilliez | Yomgui Dumont**\nTristan et Esteban ont 14 ans et font partie de la mystérieuse Brigade des cauchemars. Créé par le professeur Angus, le père de Tristan, la brigade vient en aide aux jeunes qui n’arrivent pas à se débarrasser de leurs rêves. A l’aide d’une expérience unique, les membres de l’équipe peuvent littéralement entrer dans le cauchemar du patient, afin d’en découvrir la source et de la détruire. L’admission à la clinique de la jeune Sarah va bouleverser les deux garçons. Alors même qu’ils sont missionnés pour intervenir dans son cauchemar, le professeur Angus semble leur cacher des informations. Et Tristan est certain d’avoir déjà vue Sarah… mais où ?",
+            "image":"https://images.renaud-bray.com/images/PG/2341/2341509-gf.jpg"
+        },{
+            "title":"Spy x Family (manga)",
+            "subtitle":"**Endo Tatsuya**\nTwilight, le plus grand espion du monde, a pour mission de s'introduire dans la plus prestigieuse école de l'aristocratie. Pour y parvenir, il crée une famille de toutes pièces avec une petite fille télépathe et une tueuse à gage se faisant passer pour une jeune femme timide. Ce trio instable découvre peu à peu les valeurs d'une famille aimante et unie.",
+            "image":"https://images.renaud-bray.com/images/PG/3270/3270268-gf.jpg"
+        },{
+            "title":"Suggestions de Charles Desrochers"
+        },{
+            "title":"Chimie 501",
+            "subtitle":"**Josée de Angelis**\nMax ne veut qu'une seule chose pour sa dernière année de secondaire : passer inaperçu et ne pas faire de vagues. mais l'arrivée d'un nouvel élève aussi beau que sympathique et dont la seule présence lui donne des papillons vient tout chambouler. Si Nic a accepté de suivre sa mère à Montréal et d'y finir son secondaire 5, c'est dans le seul but d'oublier Jennifer et sa peine d'amour. Il n'avait aucune intention de tomber dans un tourbillon de sentiments confus... pour un gars. Mais on ne peut rien faire contre la chimie qui peut parfois provoquer des réactions explosives !",
+            "image":"https://images.renaud-bray.com/images/PG/2728/2728841-gf.jpg"
+        },{
+            "title":"Le prince et la couturière",
+            "subtitle":"**Jen Wang**\nAlors que le prince Sébastien revêt des robes et court les nuits parisiennes sous l'identité de Lady Cristallia, ses parents, qui ignorent tout de sa vie nocturne, lui cherchent une fiancée. Une des deux seules personnes à connaître son secret est sa meilleure amie Frances, qui a toujours rêvé de devenir une grande couturière.",
+            "image":"https://images.renaud-bray.com/images/PG/2550/2550982-gf.jpg"
+        },{
+            "title":"38 kilomètres",
+            "subtitle":"**Patrick Senécal**\nNous avons atteint la voie ferrée, qui s'étendait à perte de vue dans les champs. Nathan l'a étudiée avec attention, comme s'il tentait d'évaluer le nombre de pas qui l'attendaient jusqu'à la grande ville. Puis, comme tous les enfants, il s'est mis en route en marchant en équilibre sur l'un des rails.",
+            "image":"https://images.renaud-bray.com/images/PG/3211/3211891-gf.jpg"
+        },{
+            "title":"Les Fragmentés",
+            "subtitle":"**Neal Shusterman**\nA la suite de la Seconde Guerre civile, une loi stipule que tout parent peut décider d'interrompre la vie de son enfant entre l'âge de 13 et 18 ans. La fragmentation est le processus qui permet d'avorter d'un enfant rétroactivement. Connor, Risa et Lev se retrouvent sur la liste des fragmentés et décident de fuir pour échapper à leur destin.",
+            "image":"https://images.renaud-bray.com/images/PG/1402/1402893-gf.jpg"
+        },{
             "title":"Suggestions d'Émilie de Bellefeuille Bordeleau"
         },{
             "title":"Les Prank",
             "subtitle":"**Matthieu Simard**\nCharlotte Prank et son frère, Fox Prank, passent leur vie à se jouer des tours. Un jour, leur père capte un de leurs mauvais coups sur vidéo et le publie sur YouTube. Contre toute attente, la vidéo devient virale et les Prank deviennent aussitôt des stars du web. Charlotte, qui vit avec un handicap depuis la naissance, hésite à tirer profit de cette soudaine célébrité. Son frère réussit néanmoins à la convaincre, mais le public ne réagit pas comme prévu... Leur guerre, qui était jusque-là sympathique, prend alors des proportions extrêmes. Sauront-ils s'arrêter avant que leur jeu ne devienne réellement dangereux ?",
-            "image":"https://images.renaud-bray.com/images/PG/3322/3322826-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3322/3322826-gf.jpg"
         },{
             "title":"L'année de grâce",
             "subtitle":"**Kim Liggett**\nL'année de leurs 16 ans, toutes les jeunes filles sont envoyées dans un campement en forêt où elles doivent survivre seules pendant un an afin de se purifier de la magie dangereuse dont la croyance les pense porteuses. Tierney, une adolescente rebelle et animée d'une rage sourde, s'aperçoit très vite que le danger réside plus dans la folie collective qui gagne le groupe que chez leurs gardiens.",
-            "image":"https://images.renaud-bray.com/images/PG/3287/3287260-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3287/3287260-gf.jpg"
         },{
             "title":"Les maudits",
             "subtitle":"**Édith Kabuya**\nCe que Vince m’a fait, la nuit où il m’a sauvée ? Je ne saurais vous l’expliquer. Je peux toutefois jurer de deux choses : Je n’ai pas que frôlé la mort : j’étais morte. En me ramenant à la vie, Vince a fait de moi une Maudite. Hantée par le Monde des Morts à jamais.",
@@ -19,35 +75,35 @@
         },{
             "title":"La vérité sur l'affaire Harry Québert",
             "subtitle":"**Joël Dicker**\nQui a tué Nola Kellergan? À Aurora, dans le New Hampshire, Nola Kellergan, une jeune fille de quinze ans, disparaît dans des conditions mystérieuses. À New York, Marcus Goldman, jeune écrivain à succès s'installe pour quelques semaines à Aurora, auprès de son ami et ancien professeur d'université, Harry Quebert, l'un des écrivains les plus respectés du pays. Peu après son retour à New York tout bascule : le cadavre de Nola Kellergan est retrouvé dans la propriété de Harry Quebert. Celui-ci, accusé du meurtre de la jeune femme, est immédiatement arrêté par la police. Convaincu de l'innocence de Harry, Marcus abandonne tout pour se rendre dans le New Hampshire et mener sa propre enquête. Il va rapidement être dépassé par les évènements.",
-            "image":"https://images.renaud-bray.com/images/PG/3604/3604053-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3604/3604053-gf.jpg"
         },{
             "title":"Anne...à la maison aux pignons verts",
             "subtitle":"**Lucy Maud MontGomery**\nQuand Matthew et Marilla Cuthbert décident d'adopter une orpheline pour les aider à s'occuper de la ferme familiale, ils n'ont aucune idée des péripéties qui les attendent. Avec sa chevelure rousse et son imagination indomptable, Anne Shirley prend le domaine des pignons verts d'assaut! De l'excitation triomphale aux profondeurs du désespoir, Anne transforme chaque instant en un moment inoubliable.",
-            "image":"https://images.renaud-bray.com/images/PG/423/423114-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/423/423114-gf.jpg"
         },{
             "title":"La Cache",
             "subtitle":"**Sandra Dussault**\nUne catastrophe oblige des jeunes à se réfugier dans un abri inconnu de tous, situé sous leur école… Les jours s’écoulent, les tensions s’accentuent, l’énergie s’agglutine comme dans un concentré de jus d’orange et des pouvoirs étonnants se développent: télékinésie, don de guérison, transferts d’énergie… Qu’est-ce qui les attend hors de la Cache ?",
-            "image":"https://images.renaud-bray.com/images/PG/1661/1661882-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/1661/1661882-gf.jpg"
         },{
             "title":"Parasites-la guêpe",
             "subtitle":"**Marie-Eve Bourassa**\nBillie vit avec son père dans une petite ville minière des Cantons-de-l'Est. Depuis quelque temps, toutes sortes d'événements bizarres et inquiétants ont lieu à l'école qu'elle fréquente. Après la mort de son ami Antoine Rivard dans des circonstances louches, Billie comprend qu'elle ne pourra plus se cacher. La Guêpe, mystérieuse appli qui semble se nourrir de la vie privée des jeunes – et de leur fascination pour la vie privée des autres –, lance aux ados du coin des défis de plus en plus périlleux... Qui est vraiment l'inquiétant parasite? La mort de leur camarade était-elle vraiment un suicide?",
-            "image":"https://images.renaud-bray.com/images/PG/3342/3342824-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3342/3342824-gf.jpg"
         },{
             "title":"Le passage",
             "subtitle":"**Louis Sachar**\nPoursuivi par une malédiction familiale, Stanley Yelnats est injustement accusé de vol. Il est envoyé au Camp du lac vert, perdu au milieu du Texas. Le directeur impose à ses jeunes prisonniers de creuser le lac asséché toute la journée sous un soleil brûlant. Stanley tente de comprendre et plonge au coeur de vieilles légendes.",
-            "image":"https://images.renaud-bray.com/images/PG/1978/1978721-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/1978/1978721-gf.jpg"
         },{
             "title":"Projet Pox",
             "subtitle":"**Hervé Gagnon**\nDes orphelins disparaissent mystérieusement et personne ne semble s'en préoccuper. Tandis que les mensonges se multiplient, plusieurs pensionnaires veulent vite comprendre ce qui se passe. Seraient-ils eux aussi menacés? Est-il trop tard pour retrouver les disparus? Mensonges, hypnotisme et électrochocs tissent la toile de fond de ce suspense historique qui nous entraîne d'un orphelinat austère aux couloirs suintants d'un asile. À une époque pleine de dangers, dans les rues sombres de Montréal, un complot se trame qui dépasse tout ce qu'ils peuvent imaginer.",
-            "image":"https://images.renaud-bray.com/images/PG/3040/3040970-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3040/3040970-gf.jpg"
         },{
             "title":"Destination finale",
             "subtitle":"**Matthieu Fortin**\nÉmilien est un jeune gamer très performant, mais solitaire, sélectionné pour tester une extension d'un populaire jeu vidéo. Le nouvel appareil permet d'expérimenter une façon de jouer innovante et immersive avec un casque de réalité augmentée. L'adolescent est loin de se douter que rien n'est totalement gratuit.",
-            "image":"https://images.renaud-bray.com/images/PG/3528/3528652-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3528/3528652-gf.jpg"
         },{
             "title":"Le petit astronaute",
             "subtitle":"**Jean-Paul Eid**\nTous les ans, Juliette fait son pèlerinage en vélo dans le quartier de son enfance. Mais cette année, devant l'ancien appartement familial, une affiche: À vendre - Visite libre. En ouvrant, les portes de son décor de jeunesse, les souvenirs remontent. Les amis, les petits bonheurs, mais surtout l'arrivée bouleversante de son frère Tom: le petit astronaute. Le petit astronaute de Jean-Paul Eid est une ode à la vie, une émouvante célébration de la différence à travers l'arrivée sur Terre d’un enfant lourdement handicapé. Tom ne marche pas, ne parle pas, mais son sourire muet témoigne de son bonheur de vivre et redonnera un sens à la vie de toute une famille.",
-            "image":"https://images.renaud-bray.com/images/PG/3384/3384295-gf.jpg?404=404RB.gif"
+            "image":"https://images.renaud-bray.com/images/PG/3384/3384295-gf.jpg"
         }
     ]
 }

@@ -1,5 +1,6 @@
 {
-    "title":"Suggestions de lecture",
+    "title":"Romans adulte",
+    "topsubtitle":"Suggestions de lecture",
     "cells":
     [
         {
@@ -11,7 +12,7 @@
         },{
             "title":"Changer l’eau des fleurs",
             "subtitle":"**Valérie Perrin**\nViolette est garde-cimetière. Les gens de passage et les habitués passent se réchauffer dans sa loge où rires et larmes se mélangent au café qu’elle leur offre. Un jour, parce qu’un homme et une femme ont décidé de reposer ensemble dans son carré de terre, tout bascule. Des liens qui unissent vivants et morts sont exhumés, et certaines âmes que l’on croyait noires, se révèlent lumineuses.",
-            "image":"https://images.renaud-bray.com/images/PG/2425/2425570-gf.jpg"
+            "image":"https://images.renaud-bray.com/images/PG/2849/2849066-gf.jpg"
         },{
             "title":"En attendant Bojangles",
             "subtitle":"**Olivier Bourdeaut**\nUn petit garçon contemple l'amour fou de ses parents, un couple fantasque. Un jour, les excentricités de sa mère dépassent les limites et son père décide de l'envoyer dans une clinique psychiatrique, avant de se raviser et de l'enlever pour la cacher et la protéger. Prix du roman des étudiants France Culture-Télérama 2016, Grand prix RTL-Lire 2016, prix roman France Télévisions 2016.",
@@ -27,11 +28,15 @@
         },{
             "title":"Là où chantent les écrevisses",
             "subtitle":"**Delia Owens**\nEn 1969, Chase Andrews, quaterback d'une ville voisine de Barkley Cove, est retrouvé mort. On accuse aussitôt Kya Clark, surnommée la fille des marais, car elle y vit seule depuis ses 10 ans. Premier roman.",
-            "image":"https://images.renaud-bray.com/images/PG/3199/3199344-gf.jpg"
+            "image":"https://images.renaud-bray.com/images/PG/3441/3441724-gf.jpg"
         },{
             "title":"Le Vacarme des possibles",
             "subtitle":"**Valérie Chevalier**\nDans un style littéraire où la poésie fait écho à la prose du récit romanesque, Le vacarme des possibles présente les pérégrinations amoureuses d’une jeune femme en quête de l’amour, du bonheur et de la sérénité. Tiraillée entre l’ivresse des promesses et les appréhensions vertigineuses de la vie de couple, la narratrice traverse son lot de tourmentes et se relève chaque fois aussi vite que la dernière chute a été fulgurante. L’autrice dresse un portrait fragmenté de l’amour, celui qui va et qui vient entre les amitiés précieuses et les surprises que réserve la vie.",
             "image":"https://images.renaud-bray.com/images/PG/3528/3528834-gf.jpg"
+        },{
+            "title":"Bilbot le Hobbit (roman graphique)",
+            "subtitle":"**J R Tolkien**\nBien longtemps avant la quête du Seigneur des Anneaux, alors que Bilbo Sacquet était encore un tout jeune et paisible Hobbit, Gandalf le Magicien l'entraîna dans une folle aventure. En compagnie de treize nains, Bilbo se lança dans la conquête d'un trésor caché sous le Mont Solitaire, usurpé par le Dragon Smaug. En route, il s'appropriera l'anneau magique de Gollum, combattra trolls, gobelins et araignées géantes, et deviendra ami avec le peuple des Elfes.",
+            "image":"https://images.leslibraires.ca/books/9782413031888/front/9782413031888_medium.jpg"
         },{
             "title":"Suggestion de Mélanie Tremblay"
         },{
@@ -44,6 +49,16 @@
             "title":"Jonathan Livingston le goéland",
             "subtitle":"**Richard Bach**\nMes frères ! s'écria Jonathan. Mille années durant, nous avons joué des ailes et du bec pour ramasser des têtes de poisson, mais désormais nous avons une raison de vivre : apprendre, découvrir, être libres ! Jonathan Livingston n'est pas un goéland comme les autres. Ses parents, les autres membres de son clan, ne voient pas plus loin que le bout de leurs ailes. S'ils volent, c'est uniquement pour se nourrir. Jonathan, lui, vole pour son seul plaisir. Et en volant toujours plus haut, toujours plus vite, il sait qu'il découvrira un sens plus noble à la vie. Effrayés par son audace, ses semblables le rejettent. Mais Jonathan va se faire de nouveaux amis",
             "image":"https://images.renaud-bray.com/images/PG/13/13305-gf.jpg"
+        },{
+            "title":"Suggestions d'Émilie de Bellefeuille Bordeleau"
+        },{
+            "title":"Les maudits",
+            "subtitle":"**Édith Kabuya**\nCe que Vince m’a fait, la nuit où il m’a sauvée ? Je ne saurais vous l’expliquer. Je peux toutefois jurer de deux choses : Je n’ai pas que frôlé la mort : j’étais morte. En me ramenant à la vie, Vince a fait de moi une Maudite. Hantée par le Monde des Morts à jamais.",
+            "image":"https://images-na.ssl-images-amazon.com/images/I/51mGqo3ulIL._SX210_.jpg"
+        },{
+            "title":"La vérité sur l'affaire Harry Québert",
+            "subtitle":"**Joël Dicker**\nQui a tué Nola Kellergan? À Aurora, dans le New Hampshire, Nola Kellergan, une jeune fille de quinze ans, disparaît dans des conditions mystérieuses. À New York, Marcus Goldman, jeune écrivain à succès s'installe pour quelques semaines à Aurora, auprès de son ami et ancien professeur d'université, Harry Quebert, l'un des écrivains les plus respectés du pays. Peu après son retour à New York tout bascule : le cadavre de Nola Kellergan est retrouvé dans la propriété de Harry Quebert. Celui-ci, accusé du meurtre de la jeune femme, est immédiatement arrêté par la police. Convaincu de l'innocence de Harry, Marcus abandonne tout pour se rendre dans le New Hampshire et mener sa propre enquête. Il va rapidement être dépassé par les évènements.",
+            "image":"https://images.renaud-bray.com/images/PG/3604/3604053-gf.jpg"
         },{
             "title":"Suggestions de Nadia Lévesque"
         },{
@@ -71,10 +86,6 @@
             "subtitle":"**Jonathan Safran Foer**\nL'enquête se déroule en trois temps : après avoir convoqué souvenirs d'enfance, données statistiques et arguments philosophiques, l'écrivain interroge les croyances, mythes et traditions familiales et nationales liées aux relations que les hommes entretiennent avec les animaux qu'ils consomment. Il part ensuite en expédition clandestine sur le terrain entre élevages et usines d'abattage.",
             "image":"https://images.renaud-bray.com/images/PG/1253/1253855-gf.jpg"
         },{
-            "title":"Les murs",
-            "subtitle":"**Olivia Tapiero**\n- Dr G m'a déjà parlé de toi, mais j'aimerais entendre ton point de vue sur les choses. - Mon point de vue sur quoi ? - Sur la situation... Pourquoi penses-tu que tu es ici ? - J'ai essayé de me suicider en faisant une overdose de somnifères. - Et est-ce que tu veux t'en sortir ? - Non merci, ça ira.",
-            "image":"https://images.leslibraires.ca/books/9782896491278/front/9782896491278_medium.jpg"
-        },{
             "title":"Histoire d’une baleine Blanche",
             "subtitle":"**Luis Sepulveda**\nDans cette fable animalière, la baleine blanche est la protectrice des morts mapuches et la guide des âmes. Au XIXème siècle, au large de la Patagonie, elle doit défendre son monde face aux baleiniers, dont l'Essex du capitaine Achab. La guerre commence entre les chasseurs et la baleine. Cette dernière raconte de son point de vue l'histoire.",
             "image":"https://images.renaud-bray.com/images/PG/2951/2951902-gf.jpg"
@@ -90,6 +101,24 @@
             "title":"La panthère des neiges",
             "subtitle":"**Sylvain Tesson**\nEn 2018, l'écrivain accompagne l'équipe du photographe V. Munier sur les hauts plateaux tibétains pour photographier les dernières panthères des neiges. Il relate cette aventure dans un environnement inhospitalier mais grandiose. Il livre ses réflexions sur la menace que représente l'homme pour le règne animal, sur la raréfaction des espèces mais aussi sur la spiritualité asiatique.",
             "image":"https://images.renaud-bray.com/images/PG/2987/2987887-gf.jpg"
+        },{
+            "title":"Suggestions de Claudine Robitaille"
+        },{
+            "title":"Mille secrets mille dangers",
+            "subtitle":"**Alain Farah**\nAlain épouse Virginie en la crypte de l’oratoire Saint-Joseph du Mont-Royal. En apparence, ce sera le plus beau jour de sa vie. Tout le monde est là, les parents de la mariée, la grande amie, les parents du narrateur – Libanais d’Égypte immigrés au Québec il y a trente ans, divorcés depuis vingt, qui ne se parlent plus depuis dix. Mais, à l’approche de la célébration, Alain va plus mal que jamais. Les insomnies sont de retour, l’angoisse et la maladie aussi. Et aujourd’hui, son cousin Édouard, son garçon d’honneur, son frère, perd pied, emporté par la mécanique folle d’un déni aux proportions bibliques.",
+            "image":"https://images.renaud-bray.com/images/PG/3498/3498982-gf.jpg"
+        },{
+            "title":"Les Villes de papier",
+            "subtitle":"**Dominique Fortier**\nCelle que l'on surnommait « la dame en blanc » demeure encore aujourd'hui une énigme. Elle a toujours refusé de rendre sa poésie publique et a passé les dernières années de sa vie cloîtrée dans sa chambre ; on s'entend pourtant maintenant à voir en elle un des écrivains les plus importants du dix-neuvième siècle. Les villes de papier explore son existence de l'intérieur, en mode mineur, à travers ses livres, son jardin et ses fantômes. Autour de moments de la vie d'Emily, Dominique Fortier trace un roman à la fois grave et cristallin, et nous offre une réflexion d'une profonde justesse sur les mondes qui nous construisent, sur les lieux que nous habitons et qui nous habitent aussi.",
+            "image":"https://images.renaud-bray.com/images/PG/2581/2581221-gf.jpg"
+        },{
+            "title":"Océan mer",
+            "subtitle":"**Alessandro Baricco**\nAu bord de l'océan, à la pension Almayer, \" posée sur la corniche ultime du monde \", se croisent sept personnages au destin étrange et romanesque, sept naufragés de la vie qui tentent de recoller les morceaux de leur existence. Mais leur séjour est bouleversé par le souvenir d'un hallucinant naufrage d'un siècle passé et la sanglante dérive d'un radeau. Et toujours, la mer, capricieuse et fascinante... Avec une époustouflante maîtrise, Alessandro Baricco nous offre à la fois un roman à suspense, un livre d'aventures, une méditation philosophique et un poème en prose. ",
+            "image":"https://images.renaud-bray.com/images/PG/10/10329-gf.jpg"
+        },{
+            "title":"Sur la route avec Bashô",
+            "subtitle":"**Dany Laferrière**\nLe narrateur de cette histoire parcourt le monde d’aujourd'hui, de l’Amérique au Japon, en le croquant sur le vif. Qui se méfierait d’un rêveur ? Il ne rêve pas du tout. Voyageant aux quatre coins du monde, il ne peut que constater que la menace est partout. Dessinant ce qu’il voit, le narrateur écrit aussi des mots. Pourtant, son intention n’est pas de changer le monde, nous dit-il, « simplement d’y vivre ». Et l’on comprend alors que, comme le disait Pavese, c’est un métier de vivre.",
+            "image":"https://images.renaud-bray.com/images/PG/3642/3642063-gf.jpg"
         }
     ]
 }

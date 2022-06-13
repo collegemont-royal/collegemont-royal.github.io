@@ -13,6 +13,10 @@ const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 const copyFile = promisify(fs.copyFile);
 
+const ref = process.env.GITHUB_REF;
+let base = (ref.startsWith("refs/pull") ? "/PR" : "/") + ref.split("/")[2];
+if (base === "/main") base = "/";
+
 const fileProcessingFunctions = {
   '.js': (sourcePath, destPath) =>
     new Promise((resolve, reject) => {
@@ -27,10 +31,17 @@ const fileProcessingFunctions = {
         .on("finish", () => resolve());
     }),
 
-  '.html': (sourcePath, destPath) =>
-    readFile(sourcePath, "utf8")
-      .then((data) => htmlMinifier.minify(data, config.modules.htmlMinifier))
-      .then((data) => writeFile(destPath, data, "utf8")),
+  '.html': (sourcePath, destPath) => {
+    if (sourcePath === 'index.html')
+      destPath = destPath.replace(/index\.html$/, '404.html');
+    return readFile(sourcePath, "utf8")
+      .then((data) => {
+        if (sourcePath === 'index.html')
+          data = data.replace('<base href="/">', `<base href="${base}">`);
+        return htmlMinifier.minify(data, config.modules.htmlMinifier);
+      })
+      .then((data) => writeFile(destPath, data, "utf8"));
+  },
 
   '.css': (sourcePath, destPath) =>
     readFile(sourcePath, "utf8")

@@ -1,0 +1,24 @@
+name: Menu Cafétéria
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Mettre à jour
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Mise à jour
+      run: |
+        wget -O files/ecole/menuCafeteria.pdf $(curl -sL https://bleulotus.ca/pages/montroyal | grep -ioE '<a\s+href="(.+?)"\s+class=".*?btn.*?".*?>.*?menu.*?</a>' | grep -oE https://.+?\.pdf)
+        git add files/ecole/menuCafeteria.pdf
+        git config user.name "Clément Gauthier"
+        git config user.email "clement.gauthier@hotmail.com"
+        git diff-index --quiet HEAD || git commit -m menuCafeteria
+        git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

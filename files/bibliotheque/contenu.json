@@ -19,14 +19,19 @@
             "subtitle":"Les balados littéraires du comité de la bibliothèque sont disponibles !",
             "image":"files/bibliotheque/images/balado.png",
             "newPage":true,
-            "link":"files/bibliotheque/balado/contenu.json",
-            "UUID":"bf09ac96-fe4b-4697-aa8a-e8a15c7884a0"
+            "link":"files/bibliotheque/balado.json"
         },{
             "title":"Nouveautés",
             "subtitle":"Les livres fraîchement arrivés à la bibliothèque.",
             "image":"files/bibliotheque/images/horloge.png",
             "newPage":true,
             "link":"files/bibliotheque/nouveau.json"
+        },{
+            "title":"Archives du journal étudiant",
+            "subtitle":"Archives des éditions COVID 2020, 2020-2021 et 2021-2022.",
+            "image":"files/bibliotheque/images/journal_archives.png",
+            "newPage":true,
+            "link":"files/journal/contenu.json"
         }
     ]
 }

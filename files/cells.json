@@ -1,6 +1,6 @@
 {
     "topsubtitle":"Collège Mont-Royal",
-    "version":"1.153",
+    "version":"1.15",
     "cells": [
         {
             "title":"Babillard",
@@ -9,7 +9,7 @@
              "link":"files/babillard.json"
         },{
             "title":"Informations générales",
-            "subtitle":"Informations et règlements",
+            "subtitle":"Informations et règlements\nLes documents de l'année scolaire 2022-2023 seront disponibles le 1er août.",
             "image":"files/images/infos.png",
             "newPage":true,
             "link":"files/ecole/contenu.json"
@@ -21,16 +21,15 @@
             "link":"files/bibliotheque/contenu.json"
         },{
             "title":"Cafétéria",
-            "subtitle":"Informations et menu de la cafétéria",
+            "subtitle":"Bonnes vacances !",
             "image":"files/images/cafeteria.png",
-            "newPage":true,
-            "link":"files/ecole/cafeteria.json"
+            "tint":"#78787A"
         },{
             "title":"Journal Étudiant",
             "subtitle":"Consultez notre journal étudiant!",
             "image":"files/images/journal.png",
             "newPage":true,
-            "link":"files/journal/contenu.json"
+            "link":"files/journal/2021-2022.json"
         },{
             "title":"Support technique",
             "subtitle":"Contactez l'équipe de support technique du collège et consultez les tutoriels.",

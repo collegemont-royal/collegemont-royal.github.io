@@ -1,71 +1,30 @@
 {
-    "title":"Journal Étudiant",
+    "title":"Archives",
     "cells":
     [
         {
-            "title":"Édition 10",
-            "subtitle":"Cette dixième édition du journal étudiant vous offre une panoplie de ressources et de trucs pratiques pour vous accompagner durant vos scéances d'étude. Bonne préparation à toutes et à tous!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal10.pdf",
-            "UUID":"47b7844d-c228-406b1e5-5584563b89aa"
+            "title":"Les archives du Royal Éditorial !",
+            "subtitle":"Les éditions du journal étudiant des années passées sont disponibles ici.",
+            "image":"files/bibliotheque/images/journal_archives.png",
+            "notification":true
         },{
-            "title":"Édition 9",
-            "subtitle":"Le mois d'avril n'a pas été de tout repos, autant au niveau scolaire que dans la vie étudiante. Jetez un coup d'oeil à cette vague de changement à travers les articles de cette neuvième édition du journal étudiant. ",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal9.pdf"
-        },{
-            
-            "title":"Édition 8",
-            "subtitle":"Célébrez l'arrivée du printemps en découvrant les nouveautés au collège, ainsi que de nombreuses suggestions musicales, cinématographiques et littéraires!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal8.pdf"
-        },{
-            "title":"Édition spéciale",
-            "subtitle":"Joyeux mois de février à tous!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal7.pdf"
-        },{
-            "title":"Édition 6",
-            "subtitle":"Pour commencer 2022 du bon pied, plongez-vous dans cette sixième édition du journal étudiant. Au programme : des évènements et projets à ne pas manquer, une recette rafraîchissante, des nouvelles du comité de la bibliothèque et bien plus!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal62.pdf"
-        },{
-            "title":"Édition 5",
-            "subtitle":"Cette cinquième édition vous plongera dans la magie du temps des fêtes !",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal52.pdf"
-        },{
-            "title":"Édition 4",
-            "subtitle":"À travers des médiums variés, découvrez de nouvelles idées de contenus audiovisuels !",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal4.pdf"
-        },{
-            "title":"Édition 3",
-            "subtitle":"Édition spéciale Halloween!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal30.pdf"
-        },{
-            "title":"Entrevue avec les présidentes du Collège Mont-Royal",
-            "subtitle":"Salma Sévigny et Coralie Paul nous expliquent leurs motivations pour devenir présidentes.",
-            "image":"files/journal/images/video-presidentes.png",
-            "link":"https://youtu.be/wX8VrXCFJro",
-            "openURL":true
-        },{
-            "title":"Édition 2",
-            "subtitle":"Deuxième édition du journal étudiant mettant la vie étudiante au coeur du Collège!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal2.pdf"
-        },{
-            "title":"Édition 1",
-            "subtitle":"Première édition de l'année 2021-2022!",
-            "image":"files/journal/images/basic.png",
-            "link":"files/journal/Journal1.pdf"
-        },{
-            "title":"Archives",
+            "title":"Édition 2021-2022",
             "subtitle":"",
-            "image":"🗄",
-            "newPage":true,
-            "link":"files/journal/archives/contenu.json"
+            "image":"https://collegemont-royal.github.io/archives/journal/2021-2022/images/basic.png",
+            "link":"files/journal/2021-2022.json",
+            "newPage":true
+        },{
+            "title":"Édition 2020-2021",
+            "subtitle":"",
+            "image":"https://collegemont-royal.github.io/archives/journal/2020-2021/images/basic.png",
+            "link":"files/journal/2020-2021.json",
+            "newPage":true
+        },{
+            "title":"Édition COVID-19",
+            "subtitle":"2020",
+            "image":"https://collegemont-royal.github.io/archives/journal/covid2020/covid.png",
+            "link":"files/journal/covid2020.json",
+            "newPage":true
         }
     ]
 }

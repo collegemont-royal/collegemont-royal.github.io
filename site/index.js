@@ -42,7 +42,7 @@ function addNewPageEvent(i) {
     var element = document.getElementById(i)
     element.onclick = function () {
         document.getElementsByClassName("topsub")[0].innerHTML = document.getElementsByClassName("title")[0].innerText;
-        history.pushState(cells[i].link, cells[i].title, "./?src=" + cells[i].link);
+        history.pushState(cells[i].link, cells[i].title, cells[i].link.endsWith("contenu.json") ? cells[i].link.substring(0, cells[i].link.length - 12) : "./?src=" + cells[i].link);
         slideLeft()
         shouldAnimate = true;
         setTimeout(function () {
@@ -342,7 +342,8 @@ function getUrl() {
     } else if (src != null) {
         return src;
     } else {
-        return 'files/cells.json';
+        const { pathname } = window.location;
+        return pathname === '/' ? 'files/cells.json' : pathname + '/contenu.json';
     }
 }
 
